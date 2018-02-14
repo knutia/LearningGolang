@@ -1,0 +1,44 @@
+
+
+└───XSP.LOCAL
+    └───SDL_Util
+        └───Smart24
+            ├───Company1
+            │   ├───Brukere
+            │   │       user1
+            │   │       user2
+            │   │       user3
+            │   │
+            │   └───Grupper
+            │           Groupe1
+            │           Groupe2
+            │
+            ├───Company2
+            │   ├───Brukere
+            │   │       user1
+            │   │       user2
+            │   │       user3
+            │   │
+            │   └───Grupper
+            │           Groupe1
+            │           Groupe2
+            │
+            ├───Company3
+            │   ├───Brukere
+            │   │       user1
+            │   │       user2
+            │   │       user3
+            │   │
+            │   └───Grupper
+            │           Groupe1
+            │           Groupe2
+            │
+            └───Utility
+                ├───Brukere
+                │       user1
+                │       user2
+                │       user3
+                │
+                └───Grupper
+                        Groupe1
+                        Groupe2
